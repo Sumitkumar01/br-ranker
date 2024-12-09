@@ -1,0 +1,25 @@
+/* ====  */
+.hello {
+  color: black;
+}
+
+
+
+.course__sort-inner select {
+  width: 160px !important;
+}
+
+@media (max-width: 576px) {
+  .course__sort-inner select {
+    width: 100% !important;
+  }
+}
+
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
